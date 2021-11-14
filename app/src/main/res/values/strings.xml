@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Stress Out</string>
+    <string name="set_loop">Set loop</string>
+    <string name="title_cat">Ronroneos</string>
+    <string name="title_forest">Naturaleza</string>
+    <string name="set_stackable">stackable</string>
+    <string name="cat_title">Gatos</string>
+    <string name="imgcat">Bosque</string>
+    <string name="how_to_use">Ayuda</string>
+    <string name="title_app">Cómo usar</string>
+    <string name="app_description">Esta aplicación te permite relajarte y ayudarte a quitar el estrés, escuchando sonidos que van desde ronroneos de gatos hasta sonidos de la naturaleza</string>
+    <string name="how_to_use_text">¿Cómo funciona?</string>
+    <string name="click_guide">Toca un elemento para reproducir el sonido, toca de nuevo para detenerlo.</string>
+    <string name="loop_guide">Selecciona modo bucle para que los sonidos se reproduzcan de manera indefinida!</string>
+    <string name="multiple_guide">Selecciona modo múltiple para seleccionar varios sonidos a la vez!</string>
+    <string name="set_stop">Stop</string>
+    <string name="stop_guide">Detiene todos los sonidos que estén reproduciéndose en aquel momento</string>
+    <string name="text_Credits">Aplicación desarrollada por Bigo20 con el fin de participar en AristiComp.</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/item_help"
+        android:title="@string/how_to_use"
+        android:icon="@drawable/ic_help"/>
+
+<item android:id="@+id/item_cat"
+      android:title="@string/cat_title"
+      android:icon="@drawable/imgcat"/>
+
+
+    <item android:id="@+id/item_forest"
+        android:title="@string/imgcat"
+        android:icon="@drawable/imgforest"/>
+
+
+</menu>
